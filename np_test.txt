@@ -1,0 +1,1 @@
+test if file created with notepad are tracked by git
